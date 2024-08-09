@@ -30,7 +30,7 @@ test-1
 │   ├── img
 │   └── js
 │   └── scss
-└── build              #optimize your project
+└── dist              # optimize your project
 ```
 
 You will write code in the app folder. If you write CSS, write the code in the "css" folder. If you can work with SCSS, write the code in the "scss" folder. 
